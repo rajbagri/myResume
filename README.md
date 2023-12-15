@@ -1,1 +1,1 @@
-## Site Linl :- https://rajbagriportofolio.netlify.app/
+## Site Link :- https://rajbagriportofolio.netlify.app/
