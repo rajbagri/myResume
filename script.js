@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
         gsap.registerPlugin(ScrollTrigger, TextPlugin);
 
         // Hero Section Animation
-        const heroTimeline = gsap.timeline({ defaults: { ease: 'power4.out', duration: 1.8 } });
+        const heroTimeline = gsap.timeline({ defaults: { ease: 'power4.out', duration: 1.4 } });
         heroTimeline
             .from('.hero-title', { opacity: 0, y: 120, rotateX: 40, delay: 0.4 })
             .from('.hero-subtitle', { opacity: 0, y: 100, rotateX: 30 }, "-=1.4")
